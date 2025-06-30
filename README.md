@@ -21,7 +21,7 @@ PayKaro is a robust digital banking system built with Spring Boot that provides 
 - **Backend Testing:** Postman 
 
 
-**ER Diagram**
+## ER Diagram
 ![ER Diagram](assets/ERDiagram.png)
 
 ## Prerequisites
